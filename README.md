@@ -20,4 +20,3 @@ A web-based calculator built using **Django, HTML, CSS, and Bootstrap**. This pr
    git clone https://github.com/your-username/project-name.git
    cd project-name
 
-after using the git stash command
